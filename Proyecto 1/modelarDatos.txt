@@ -1,0 +1,2 @@
+Paso 1.	Abrir "vista modelo de datos"
+Paso 2.	Ocultar tablas o columnas, solo como ejemplo
