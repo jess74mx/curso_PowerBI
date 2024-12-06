@@ -1,7 +1,0 @@
-Paso 1. Eliminar columna "Ventas Global"
-Paso 2.	Seleccionar columnas de Ventas
-Paso 2. Botón derecho -> Anulación de dinamización de columnas
-Paso 3.	Modificar "Atributo" por "Región" y "Valor" por "Ventas (Millones)"
-Paso 4.	Reemplazar valores en "Región"
-Paso 5.	Modificar tipo de datos
-Paso 6. Aplicar cambios y cerrar
